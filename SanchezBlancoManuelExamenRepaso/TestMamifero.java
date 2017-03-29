@@ -19,13 +19,13 @@ public class TestMamifero {
 		listaMamiferos.add(new Murcielago("Draculin"));
 		listaMamiferos.add(new Murcielago("Dracu"));
 		
-		listaMamiferos.add(new HomoSapiens("Pedro0"));
-		listaMamiferos.add(new HomoSapiens("Pedro1"));
-		listaMamiferos.add(new HomoSapiens("Pedro2"));
+		listaMamiferos.add(new HomoSapiens("Triskis"));
+		listaMamiferos.add(new HomoSapiens("Gomez"));
+		listaMamiferos.add(new HomoSapiens("Yuste"));
 		
-		listaMamiferos.add(new Foca("Foca0"));
-		listaMamiferos.add(new Foca("Foca1"));
-		listaMamiferos.add(new Foca("Foca2"));
+		listaMamiferos.add(new Foca("Flappy"));
+		listaMamiferos.add(new Foca("Fogui"));
+		listaMamiferos.add(new Foca("Felix"));
 	
 
 		int opcion;
